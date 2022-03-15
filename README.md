@@ -1,0 +1,1 @@
+Repositório utilizado para estudos e práticas no git
